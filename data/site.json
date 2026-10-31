@@ -1,0 +1,475 @@
+{
+    "version": "zh",
+    "about": [
+        {
+            "key": "company_name",
+            "label_zh": "企业名称",
+            "label_en": "Company Name",
+            "placeholder_zh": "如：广州市***自动化设备有限公司",
+            "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
+            "value": "宠物塑料薄膜公司",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "site_intro",
+            "label_zh": "本站简介",
+            "label_en": "Introduction of this site",
+            "placeholder_zh": "向你的客户简单介绍本站的用途，比如是你公司的官网或只是一个品牌知识库",
+            "placeholder_en": "Provide your clients with a brief overview of the site’s purpose—for instance, whether it serves as your company’s official website or simply as a brand knowledge base",
+            "value": "各行业高性能保护膜的可靠供应商。\n专注于具有优异透明度、耐磨性和粘附性的PET和PE薄膜。\n可定制选项包括厚度、粘合强度、颜色和尺寸。\n对粘附性、无残留去除性和耐久性进行严格的质量测试。\n保护金属、玻璃、塑料和木材在多个行业的表面。\n专注于创新和持续的产品开发。\n具备全球供应能力，提供响应式服务、批量订单和专业技术支持。\n致力于可持续发展和环保材料。"
+        },
+        {
+            "key": "company_video",
+            "label_zh": "企业宣传片",
+            "label_en": "Company Video",
+            "placeholder_zh": "给出你企业宣传片的链接（比如抖音或B站的视频链接）",
+            "placeholder_en": "Provide your company video link(uploaded to YouTube)",
+            "value": "https:\/\/www.douyin.com\/jingxuan?modal_id=7692411979038975626"
+        },
+        {
+            "key": "location",
+            "label_zh": "所在国家、省份、城市",
+            "label_en": "City\/Province\/Country",
+            "placeholder_zh": "如：中国广东省广州市",
+            "placeholder_en": "e.g. Guangzhou\/Guangdong\/China",
+            "value": "中国广东省佛山市禅城区创新路123号",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "brand_name",
+            "label_zh": "品牌名称",
+            "label_en": "Brand Name",
+            "placeholder_zh": "如：雄鹰\/Eagle（建议多介绍下品牌）",
+            "placeholder_en": "e.g. Eagle（Introduce you brand more）",
+            "value": "宠物塑料",
+            "images": [
+                59741
+            ],
+            "image_captions": []
+        },
+        {
+            "key": "major_products",
+            "label_zh": "主要产品",
+            "label_en": "Major Products",
+            "placeholder_zh": "如：数控CNC设备、激光切割机、激光焊接机",
+            "placeholder_en": "e.g. CNC machines, laser cutters",
+            "value": "PET和PE薄膜、金属、玻璃、塑料、木材",
+            "images": [
+                59742
+            ],
+            "image_captions": []
+        },
+        {
+            "key": "applications",
+            "label_zh": "产品应用领域",
+            "label_en": "Applications",
+            "placeholder_zh": "如：汽车零部件、消费电子、医疗器械",
+            "placeholder_en": "e.g. Automotive, electronics, medical",
+            "value": "保护金属、玻璃、塑料和木材在多个行业的表面",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "year_established",
+            "label_zh": "成立时间",
+            "label_en": "Year Established",
+            "placeholder_zh": "如：2001年（可写具体日期）",
+            "placeholder_en": "e.g. 2001",
+            "value": "2001年",
+            "images": [
+                59743
+            ],
+            "image_captions": []
+        },
+        {
+            "key": "company_history",
+            "label_zh": "发展历程",
+            "label_en": "Company History",
+            "placeholder_zh": "如：2001年成立专注CNC…",
+            "placeholder_en": "e.g. Founded in 2001 focusing on CNC…",
+            "value": "2016年1月公司成立，我们以一支充满热情的专业团队起步，为未来成为PET薄膜领先供应商奠定了基础。\n2017年8月首次重大合作与一家知名跨国公司签订了我们的第一个大规模合同，标志着我们在旅程中迈出了重要一步。\n2019年3月拓展视野，将我们的重心转向国际市场，拓展新区域并建立全球合作伙伴关系。\n2023年12月实现新高度，实现了向全球出口超过7000个集装箱PET薄膜的里程碑，巩固了我们在全球市场的存在。",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "employees",
+            "label_zh": "人数",
+            "label_en": "Number of employees",
+            "placeholder_zh": "如：截至2026年8月，员工159人",
+            "placeholder_en": "e.g. 159 employees as of 2026",
+            "value": "截至2026年8月，员工159人",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "site_area",
+            "label_zh": "占地面积",
+            "label_en": "Site Area",
+            "placeholder_zh": "如：3200平方米厂房+290平方米办公",
+            "placeholder_en": "e.g. 3200㎡ factory + 290㎡ office",
+            "value": "3200平方米厂房+290平方米办公",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "annual_turnover",
+            "label_zh": "年营业额",
+            "label_en": "Annual Turnover",
+            "placeholder_zh": "如：2025年约1.3亿元人民币",
+            "placeholder_en": "e.g. ~130M RMB in 2025",
+            "value": "2025年约1.3亿元人民币",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "sales_area",
+            "label_zh": "销售区域",
+            "label_en": "Target Sales Area",
+            "placeholder_zh": "如：国内华南、华东；出口东南亚、欧洲",
+            "placeholder_en": "e.g. South\/East China; SE Asia, Europe",
+            "value": "国内华南、华东；出口东南亚、欧洲",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "advantages",
+            "label_zh": "企业或产品优势",
+            "label_en": "Enterprise or Product Advantages",
+            "placeholder_zh": "如：深耕行业10年，核心部件自研",
+            "placeholder_en": "e.g. 10 years focus, in-house core parts",
+            "value": "深耕行业10年，核心部件自研",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "founder",
+            "label_zh": "创始人简介",
+            "label_en": "Founder's Profile",
+            "placeholder_zh": "如：张三，工程师背景…",
+            "placeholder_en": "e.g. Founder background…",
+            "value": "约翰尼·奥-销售经理",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "certifications",
+            "label_zh": "资质证书名称",
+            "label_en": "Certifications",
+            "placeholder_zh": "如：ISO9001 \/ FDA \/ ROHS",
+            "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
+            "value": "ISO9001 \/ FDA \/ ROHS",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "business_reg",
+            "label_zh": "工商注册信息",
+            "label_en": "Business Registration Information",
+            "placeholder_zh": "如：可填企查查等链接",
+            "placeholder_en": "e.g. registration link",
+            "value": "https:\/\/www.qcc.com\/firm\/bc59224619c7ca0e6be5ed0bded41077.html",
+            "images": [
+                59744
+            ],
+            "image_captions": []
+        },
+        {
+            "key": "additional",
+            "label_zh": "其他补充介绍",
+            "label_en": "Additional Information",
+            "placeholder_zh": "其他想让客户或AI知道的信息",
+            "placeholder_en": "Other information for customers \/ AI",
+            "value": "补充介绍：具备全球供应能力，提供响应式服务、批量订单和专业技术支持。",
+            "images": [],
+            "image_captions": []
+        }
+    ],
+    "contact": [
+        {
+            "label_zh": "官网网址",
+            "label_en": "Website",
+            "value": "https:\/\/gofair.net\/",
+            "placeholder_zh": "https:\/\/www.example.com（有官网请填写）",
+            "placeholder_en": "https:\/\/www.example.com",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "联系人",
+            "label_en": "Contact Person",
+            "value": "张经理",
+            "placeholder_zh": "如：张经理",
+            "placeholder_en": "e.g. Mr. Zhang",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "地址",
+            "label_en": "Address",
+            "value": "中国广东省佛山市禅城区创新路123号",
+            "placeholder_zh": "详细地址",
+            "placeholder_en": "Full address",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "电话",
+            "label_en": "Telephone",
+            "value": "020-528000",
+            "placeholder_zh": "如：020-8069****",
+            "placeholder_en": "e.g. +86-20-****",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "手机",
+            "label_en": "Mobile Phone",
+            "value": "13888888888",
+            "placeholder_zh": "如：135****1234",
+            "placeholder_en": "e.g. +86-135****",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "微信号",
+            "label_en": "Wechat",
+            "value": "kailu365",
+            "placeholder_zh": "微信号或上传二维码",
+            "placeholder_en": "WeChat ID or QR",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "邮箱",
+            "label_en": "E-mail",
+            "value": "26096019@qq.com",
+            "placeholder_zh": "如：sales@example.com",
+            "placeholder_en": "e.g. sales@example.com",
+            "images": [],
+            "image_captions": []
+        }
+    ],
+    "platforms": [
+        {
+            "key": 1688,
+            "label_zh": "1688",
+            "label_en": "1688",
+            "url": "https:\/\/www.1688.com\/",
+            "placeholder_zh": "店铺链接",
+            "placeholder_en": "Shop URL"
+        },
+        {
+            "key": "taobao",
+            "label_zh": "淘宝",
+            "label_en": "Taobao",
+            "url": "https:\/\/www.taobao.com\/",
+            "placeholder_zh": "店铺链接",
+            "placeholder_en": "Shop URL"
+        },
+        {
+            "key": "douyin",
+            "label_zh": "抖音",
+            "label_en": "Douyin",
+            "url": "https:\/\/www.douyin.com\/",
+            "placeholder_zh": "主页链接",
+            "placeholder_en": "Profile URL"
+        },
+        {
+            "key": "toutiao",
+            "label_zh": "今日头条",
+            "label_en": "Toutiao",
+            "url": "https:\/\/www.toutiao.com\/",
+            "placeholder_zh": "主页链接",
+            "placeholder_en": "Profile URL"
+        },
+        {
+            "key": "zhihu",
+            "label_zh": "知乎",
+            "label_en": "Zhihu",
+            "url": "https:\/\/www.zhihu.com\/",
+            "placeholder_zh": "主页链接",
+            "placeholder_en": "Profile URL"
+        },
+        {
+            "key": "baijiahao",
+            "label_zh": "百家号",
+            "label_en": "Baijiahao",
+            "url": "https:\/\/www.baijia.com\/",
+            "placeholder_zh": "主页链接",
+            "placeholder_en": "Profile URL"
+        }
+    ],
+    "product_categories": [
+        {
+            "id": "c1793445003313_8295",
+            "name_zh": "家用电器保护膜",
+            "name_en": "",
+            "children": []
+        },
+        {
+            "id": "c1793445009721_1964",
+            "name_zh": "工业金属保护膜",
+            "name_en": "",
+            "children": [
+                {
+                    "id": "c1793445011760_2682",
+                    "name_zh": "不锈钢保护膜",
+                    "name_en": ""
+                }
+            ]
+        },
+        {
+            "id": "c1793445021950_9688",
+            "name_zh": "聚乙烯保护膜",
+            "name_en": "",
+            "children": []
+        }
+    ],
+    "products": [
+        {
+            "title": "电器触摸面板的临时保护膜",
+            "content": "<img class=\"alignnone size-full wp-image-59745\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/Appliance-Touch-Control-Protective-Film.jpg\" alt=\"\" width=\"600\" height=\"600\" \/>\n\nPET塑料薄膜公司生产用于家电触控面板应用的保护膜，在模块组装到最终安装的整个过程中，可见的控制表面必须保持覆盖状态。该薄膜可保护玻璃、PC和ABS材料免受指纹、灰尘、轻微磨损以及工作站操作的影响，且不会成为成品家电的一部分。可控的低\n粘性使薄膜在加工过程中保持稳定，而透明等级便于面板检查，且易剥离边缘支持在正常操作前移除。",
+            "category_l1": "c1793445003313_8295",
+            "category_l2": "",
+            "category_l1_label": "家用电器保护膜",
+            "category_l2_label": "",
+            "category_labels": [
+                "家用电器保护膜"
+            ],
+            "recommend": true
+        },
+        {
+            "title": "不锈钢板用 PE 保护膜",
+            "content": "<img class=\"alignnone size-full wp-image-59746\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/stainless-steel-film-for-refrigerator.jpg\" alt=\"\" width=\"600\" height=\"600\" \/>\n\nPET塑料薄膜公司生产用于不锈钢板的PE保护膜，适用于切割、成型、搬运、储存和运输过程。同一种不锈钢保护膜在#8镜面、BA(光亮面)、#4拉丝、线纹和压花钢板上表现可能不同。我们将PE背衬和可移除粘合剂与实际表面光洁度、加工负荷及停留时间相匹配，然后在常规供货前对生产板材进行覆盖性和清洁剥离验证",
+            "category_l1": "c1793445009721_1964",
+            "category_l2": "",
+            "category_l1_label": "工业金属保护膜",
+            "category_l2_label": "",
+            "category_labels": [
+                "工业金属保护膜"
+            ],
+            "recommend": false
+        },
+        {
+            "title": "用于铝材和涂层金属的PE保护膜",
+            "content": "<img class=\"alignnone size-full wp-image-59747\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/stainless-steel-film-for-refrigerator-1.jpg\" alt=\"\" width=\"600\" height=\"600\" \/>\n\nPET塑料薄膜公司生产用于铝材和涂层金属的保护膜，从制造到安装全程使用。柔性的PE载体保护铝板、彩涂板、预涂金属、粉末喷涂部件及加工组\n件免受刮擦、灰尘、湿气和操作损伤。其可移除压敏胶的选择依据是涂层类型、纹理、加工方法、停留时间和移除条件，而不仅仅是金属名称。\n\n&nbsp;",
+            "category_l1": "c1793445009721_1964",
+            "category_l2": "c1793445011760_2682",
+            "category_l1_label": "工业金属保护膜",
+            "category_l2_label": "不锈钢保护膜",
+            "category_labels": [
+                "工业金属保护膜",
+                "不锈钢保护膜"
+            ],
+            "recommend": false
+        },
+        {
+            "title": "蓝色HVAC管道开口保护膜 保护膜",
+            "content": "对于在连接和启动前必须保持清洁的管道系统，Blue HVAC Duct Opening Protection Film 可在开口端、通风口、送风口、扩散器和格栅上提供可见且可移除的防护屏障。PET Plastic Films Company生产这种自粘PE薄膜，适用于从制造到运输和安装的整个过程。蓝色表面有助于工作人员识别被覆盖的开口，而粘性可根据基材、搬运负荷和计划停留时间进行选择。在测试或运行前，请移除所有覆盖物。\n\n<img class=\"alignnone size-full wp-image-59742\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/Blue-HVAC-duct-protection-film.jpg\" alt=\"\" width=\"600\" height=\"600\" \/>",
+            "category_l1": "c1793445021950_9688",
+            "category_l2": "",
+            "category_l1_label": "聚乙烯保护膜",
+            "category_l2_label": "",
+            "category_labels": [
+                "聚乙烯保护膜"
+            ],
+            "recommend": false
+        }
+    ],
+    "faqs": [
+        {
+            "title": "热反射透明膜会损坏退火玻璃吗?",
+            "content": "如果镀膜玻璃结构增加了太阳吸收率或中心到边缘的温度差，那么它是可以的。ASTME2431涵盖了定义的退火建筑玻璃条件，但边缘状况、面板几何形状、遮阳、框架和现有损伤仍会影响风险。"
+        },
+        {
+            "title": "窗户膜可以安装在低辐射玻璃上吗?",
+            "content": "有时。确认玻璃结构、涂层位置、玻璃处理、应用表面以及薄膜太阳能特性。如果该组合超出制造商的指导范围，应进行项目专项审查，而非沿用其他中空玻璃单元(IGU)的批准。"
+        },
+        {
+            "title": "窗户膜会损坏双层玻璃吗?",
+            "content": "某些中空玻璃单元需要更细致的审查，因为膜层位置、面板处理、Low-E涂层位置、太阳吸收率、尺寸和遮阳效果都会影响热负荷。应全面评估整个中空玻璃单元(IGU)的构造，而不是将所有双层玻璃一概而论。"
+        },
+        {
+            "title": "高VLT是否意味着低太阳吸收率?",
+            "content": "不。VLT描述的是可见光透射率;太阳能吸收率是指被吸收的太阳能比例。具有相似VLT值的薄膜可能具有不同的热效应。通过玻璃结构和测试方法，可以评估太阳能透射率、反射率和吸收率。"
+        }
+    ],
+    "cases": [
+        {
+            "title": "成功案例1",
+            "content": "成功案例1成功案例1成功案例1\n\n<img class=\"alignnone size-full wp-image-59744\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/PET-film-manufacturing-process.jpg\" alt=\"\" width=\"800\" height=\"534\" \/>"
+        },
+        {
+            "title": "成功案例2",
+            "content": "<img class=\"alignnone size-full wp-image-59746\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/stainless-steel-film-for-refrigerator.jpg\" alt=\"\" width=\"600\" height=\"600\" \/>\n\n成功案例2成功案例2成功案例2成功案例2成功案例2"
+        },
+        {
+            "title": "成功案例3",
+            "content": "<img class=\"alignnone size-full wp-image-59743\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/PET-film-warehouse-storage.jpg\" alt=\"\" width=\"800\" height=\"534\" \/>\n\n成功案例3成功案例3成功案例3成功案例3成功案例3"
+        },
+        {
+            "title": "成功案例4",
+            "content": "<img class=\"alignnone size-full wp-image-59747\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/stainless-steel-film-for-refrigerator-1.jpg\" alt=\"\" width=\"600\" height=\"600\" \/>\n\n成功案例4成功案例4成功案例4"
+        }
+    ],
+    "news": [
+        {
+            "title": "热反射透明膜会损坏玻璃吗?热应力与兼容性指南",
+            "content": "热反射透明膜会损坏玻璃吗?热应力与兼容性指南热反射透明膜会损坏玻璃吗?热应力与兼容性指南热反射透明膜会损坏玻璃吗?热应力与兼容性指南热反射透明膜会损坏玻璃吗?热应力与兼容性指南热反射透明膜会损坏玻璃吗?热应力与兼容性指南热反射透明膜会损坏玻璃吗?热应力与兼容性指南"
+        },
+        {
+            "title": "UV防护玻璃膜的优势:商业买家应验证的内容",
+            "content": "UV防护玻璃膜的优势:商业买家应验证的内容UV防护玻璃膜的优势:商业买家应验证的内容UV防护玻璃膜的优势:商业买家应验证的内容UV防护玻璃膜的优势:商业买家应验证的内容UV防护玻璃膜的优势:商业买家应验证的内容"
+        },
+        {
+            "title": "BOPP与PET薄膜:如何为印刷、覆膜和工业转化选择",
+            "content": "BOPP与PET薄膜:如何为印刷、覆膜和工业转化选择BOPP与PET薄膜:如何为印刷、覆膜和工业转化选择BOPP与PET薄膜:如何为印刷、覆膜和工业转化选择BOPP与PET薄膜:如何为印刷、覆膜和工业转化选择BOPP与PET薄膜:如何为印刷、覆膜和工业转化选择"
+        },
+        {
+            "title": "地毯保护膜残留:如何 诊断胶水转移并预防",
+            "content": "地毯保护膜残留:如何 诊断胶水转移并预防地毯保护膜残留:如何 诊断胶水转移并预防地毯保护膜残留:如何 诊断胶水转移并预防"
+        },
+        {
+            "title": "聚酯薄膜定义:PET、BOPET及其名称背后的规格",
+            "content": "聚酯薄膜定义:PET、BOPET及其名称背后的规格聚酯薄膜定义:PET、BOPET及其名称背后的规格聚酯薄膜定义:PET、BOPET及其名称背后的规格聚酯薄膜定义:PET、BOPET及其名称背后的规格"
+        }
+    ],
+    "theme": {
+        "products_per_page": 24,
+        "articles_per_page": 24,
+        "products_per_row": 4,
+        "articles_per_row": 4,
+        "mobile_products_per_page": 12,
+        "mobile_articles_per_page": 12,
+        "mobile_products_per_row": 2,
+        "mobile_articles_per_row": 2,
+        "nav_font_size": 16,
+        "nav_gap": 16,
+        "submenu_width": 220,
+        "brand_color": "#4a5568",
+        "brand_bg": "#ffffff",
+        "logo_height": 56,
+        "footer_label": "品牌知识库",
+        "custom_css": "",
+        "custom_html_head": "",
+        "custom_html_top": "",
+        "custom_html_before_footer": "",
+        "custom_html_body_end": "",
+        "custom_js": "",
+        "style": "business"
+    },
+    "advanced": {
+        "custom_domain": "",
+        "cross_lang_link": 1
+    },
+    "updated_at": "2026-10-31 19:28:59",
+    "_cross_lang": {
+        "enabled": true,
+        "alt_url": "https:\/\/fengwiwo.github.io\/aoe-en\/",
+        "alt_lang": "en",
+        "current_lang": "zh"
+    },
+    "_repo_url": "https:\/\/github.com\/fengwiwo\/aoe-cn"
+}
