@@ -453,13 +453,13 @@
         "custom_html_before_footer": "",
         "custom_html_body_end": "",
         "custom_js": "",
-        "style": "magazine"
+        "style": "oriental"
     },
     "advanced": {
         "custom_domain": "",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-11-02 09:27:32",
+    "updated_at": "2026-11-02 09:31:59",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/fengwiwo.github.io\/aoe-en\/",
