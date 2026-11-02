@@ -1,12 +1,12 @@
 {
     "@context": "https:\/\/schema.org",
     "@type": "Organization",
-    "name": "宠物塑料薄膜公司",
+    "name": "<<宠物塑料薄膜公司>>",
     "brand": {
         "@type": "Brand",
-        "name": "宠物塑料"
+        "name": "宠物塑料11"
     },
-    "alternateName": "宠物塑料",
+    "alternateName": "宠物塑料11",
     "description": "各行业高性能保护膜的可靠供应商。\n专注于具有优异透明度、耐磨性和粘附性的PET和PE薄膜。\n可定制选项包括厚度、粘合强度、颜色和尺寸。\n对粘附性、无残留去除性和耐久性进行严格的质量测试。\n保护金属、玻璃、塑料和木材在多个行业的表面。\n专注于创新和持续的产品开发。\n具备全球供应能力，提供响应式服务、批量订单和专业技术支持。\n致力于可持续发展和环保材料。",
     "address": {
         "@type": "PostalAddress",
